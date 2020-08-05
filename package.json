@@ -1,16 +1,17 @@
 {
-  "name": "inquirer-autocomplete-prompt",
+  "name": "@ericbiewener/inquirer-autocomplete-prompt",
   "description": "Autocomplete prompt for inquirer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "files": [
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:mokkabonna/inquirer-autocomplete-prompt.git"
+    "url": "git@github.com:ericbiewener/inquirer-autocomplete-prompt.git"
   },
   "publishConfig": {
-    "registry": "http://registry.npmjs.org"
+    "registry": "http://registry.npmjs.org",
+    "access": "public"
   },
   "author": "Martin Hansen <martin@martinhansen.no>",
   "contributors": [
